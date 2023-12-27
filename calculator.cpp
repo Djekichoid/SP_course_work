@@ -18,3 +18,13 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+int Calculator::Mod (int a, int b)
+{
+    return a % b;
+}
+print ("Biba");
+print ("Biba");
+print ("Biba");
+print ("Biba");
+print ("Biba");
